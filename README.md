@@ -1,4 +1,4 @@
 # Kevinbot
-SOOSe
-KAPPa
-MINA
+# SOOSe
+# KAPPa
+# MINA
