@@ -1,3 +1,4 @@
 # Kevinbot
 SOOSe
 KAPPa
+MINA
