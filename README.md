@@ -1,3 +1,3 @@
 # Kevinbot
 SOOSe
-KAPPA
+KAPPa
